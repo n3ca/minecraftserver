@@ -1,0 +1,59 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:gold_nugget": 1,
+      "minecraft:melon_slice": 54
+    },
+    "minecraft:custom": {
+      "minecraft:talked_to_villager": 2,
+      "minecraft:time_since_rest": 0,
+      "minecraft:walk_one_cm": 79478,
+      "minecraft:leave_game": 9,
+      "minecraft:damage_taken": 503,
+      "minecraft:play_time": 57529,
+      "minecraft:jump": 1207,
+      "minecraft:time_since_death": 41933,
+      "minecraft:drop": 3,
+      "minecraft:sprint_one_cm": 155271,
+      "minecraft:open_chest": 5,
+      "minecraft:sleep_in_bed": 4,
+      "minecraft:fall_one_cm": 42924,
+      "minecraft:total_world_time": 57529,
+      "minecraft:fly_one_cm": 321238,
+      "minecraft:walk_on_water_one_cm": 407,
+      "minecraft:deaths": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 199,
+      "minecraft:tall_grass": 20,
+      "minecraft:melon": 39,
+      "minecraft:orange_bed": 3,
+      "minecraft:leaf_litter": 2,
+      "minecraft:wheat": 22,
+      "minecraft:grass_block": 3,
+      "minecraft:hay_block": 24
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:used": {
+      "minecraft:leaf_litter": 1,
+      "minecraft:orange_bed": 3,
+      "minecraft:bread": 3,
+      "minecraft:melon_slice": 28,
+      "minecraft:wheat_seeds": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 4,
+      "minecraft:dirt": 3,
+      "minecraft:hay_block": 24,
+      "minecraft:brown_wool": 1,
+      "minecraft:melon_slice": 191,
+      "minecraft:wheat": 12,
+      "minecraft:wheat_seeds": 59,
+      "minecraft:orange_bed": 3,
+      "minecraft:gold_nugget": 1
+    }
+  },
+  "DataVersion": 4671
+}

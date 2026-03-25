@@ -1,0 +1,106 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:stone_sword": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 8,
+      "minecraft:time_since_rest": 22777,
+      "minecraft:walk_one_cm": 50109,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 716,
+      "minecraft:mob_kills": 20,
+      "minecraft:damage_taken": 250,
+      "minecraft:play_time": 22777,
+      "minecraft:damage_dealt": 2583,
+      "minecraft:jump": 833,
+      "minecraft:time_since_death": 22777,
+      "minecraft:drop": 1,
+      "minecraft:interact_with_furnace": 5,
+      "minecraft:sprint_one_cm": 103082,
+      "minecraft:open_chest": 1,
+      "minecraft:fall_one_cm": 31629,
+      "minecraft:total_world_time": 22777,
+      "minecraft:swim_one_cm": 1193,
+      "minecraft:fly_one_cm": 155413,
+      "minecraft:walk_on_water_one_cm": 4002,
+      "minecraft:crouch_one_cm": 36,
+      "minecraft:sneak_time": 36
+    },
+    "minecraft:mined": {
+      "minecraft:tall_grass": 9,
+      "minecraft:dirt": 3,
+      "minecraft:birch_leaves": 3,
+      "minecraft:coal_ore": 12,
+      "minecraft:grass_block": 5,
+      "minecraft:short_grass": 27,
+      "minecraft:oak_leaves": 3,
+      "minecraft:furnace": 1,
+      "minecraft:crafting_table": 7,
+      "minecraft:leaf_litter": 1,
+      "minecraft:oak_log": 5,
+      "minecraft:acacia_log": 5,
+      "minecraft:stone": 21
+    },
+    "minecraft:crafted": {
+      "minecraft:furnace": 1,
+      "minecraft:stone_sword": 2,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_sword": 1,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 2,
+      "minecraft:stick": 12,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:leather_boots": 1,
+      "minecraft:cooked_beef": 6,
+      "minecraft:brown_bed": 1,
+      "minecraft:oak_planks": 20,
+      "minecraft:cooked_porkchop": 3,
+      "minecraft:acacia_planks": 20
+    },
+    "minecraft:broken": {
+      "minecraft:stone_sword": 1
+    },
+    "minecraft:killed": {
+      "minecraft:horse": 3,
+      "minecraft:skeleton": 1,
+      "minecraft:pig": 2,
+      "minecraft:sheep": 9,
+      "minecraft:cow": 5
+    },
+    "minecraft:used": {
+      "minecraft:stone_sword": 210,
+      "minecraft:cooked_beef": 4,
+      "minecraft:acacia_planks": 5,
+      "minecraft:wooden_axe": 13,
+      "minecraft:crafting_table": 7,
+      "minecraft:wooden_pickaxe": 18,
+      "minecraft:furnace": 1,
+      "minecraft:cooked_porkchop": 2,
+      "minecraft:stone_pickaxe": 16,
+      "minecraft:dirt": 8,
+      "minecraft:cobblestone": 6
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 3,
+      "minecraft:dirt": 8,
+      "minecraft:cobblestone": 21,
+      "minecraft:brown_wool": 6,
+      "minecraft:white_wool": 2,
+      "minecraft:leather": 7,
+      "minecraft:crafting_table": 6,
+      "minecraft:bone": 2,
+      "minecraft:beef": 9,
+      "minecraft:leaf_litter": 3,
+      "minecraft:coal": 12,
+      "minecraft:oak_log": 5,
+      "minecraft:stone_sword": 1,
+      "minecraft:melon_slice": 53,
+      "minecraft:acacia_log": 5,
+      "minecraft:furnace": 1,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:mutton": 15
+    }
+  },
+  "DataVersion": 4671
+}
