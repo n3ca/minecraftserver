@@ -22,10 +22,6 @@ EXPOSE 25565
 RUN echo "eula=true" > eula.txt && \
     echo "online-mode=false" >> server.properties || true
 
-# Download and setup Playit Agent
-RUN wget https://github.com/playit-cloud/playit-agent/releases/download/v0.15.0/playit-linux-amd64 && \
-    chmod +x playit-linux-amd64
-
 # Start Playit tunnel and Minecraft server
 CMD ./playit-linux-amd64 & \
-    java -Xmx2G -Xms1G -jar server.jar nogui
+    java -Xmx5G -Xms5G -jar server.jar nogui
